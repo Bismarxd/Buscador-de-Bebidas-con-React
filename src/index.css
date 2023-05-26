@@ -1,0 +1,10 @@
+
+header {
+  background-color: #001d47be;
+  color: white;
+  text-align: center;
+}
+header h1 {
+  font-family: 'Chivo Mono', monospace;
+  font-weight: 900;
+}
